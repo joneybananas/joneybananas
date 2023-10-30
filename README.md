@@ -1,6 +1,6 @@
 
 <p align="center">
-Hello im Flutter developer, you can read   <a href="https://t.me/ilyagurinwrk">SV</a> here 
+Hello im Flutter developer, you can read   <a href="https://docs.google.com/document/d/1BSxnZwnCoCxxsKqcvBT8YlrvwfURVoeGfMMXcPwlCfw/edit?usp=sharing">SV</a> here 
 </p>
 
 
