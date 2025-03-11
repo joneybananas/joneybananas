@@ -6,7 +6,6 @@
 <p align="left">
 
 <a href="https://linkedin.com/in/nikita-kapran-979b22244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita-kapran-979b22244" height="40" width="40" /></a>
-<a href="https://instagram.com/_joneybananas_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_joneybananas_" height="40" width="40" /></a>
 <a href="https://t.me/Joneybananas" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="_joneybananas_" height="40" width="40" /></a>
 </p>
 
